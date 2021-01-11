@@ -21,5 +21,10 @@ namespace Sample.Pages
         {
 
         }
+
+        public void ApplyAll()
+        {
+            var changes = _logger;
+        }
     }
 }
